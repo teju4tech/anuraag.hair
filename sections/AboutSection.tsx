@@ -169,10 +169,10 @@ const AboutSection: React.FC = () => {
             </div>
 
             <p className="col-start-1 col-end-3 row-start-4 row-end-6 lg:row-start-1 lg:row-end-2 lg:col-start-3 lg:col-end-6 lg:ml-8 lg:mt-auto about-intro">
-              With 4+ years of comprehensive experience in web application
-              development, I have polished my skills in both frontend and
-              backend development. In addition to my hands-on experience in web
-              development, my education has also played a critical role in
+              With 4+ years of comprehensive experience in content creation
+              on youtube , I have polished my skills in both contentcreator and
+              personal development. In addition to my hands-on experience in persnol
+              branding, my education has also played a critical role in
               providing a strong foundation for my career.
             </p>
 
@@ -197,8 +197,8 @@ const AboutSection: React.FC = () => {
 const educationInfo = [
   {
     id: 1,
-    title: "B.Sc (Hons) in Computing",
-    subTitle: "Edinburgh Napier University | 2018 ~ 2019",
+    title: "B.tech in Computing",
+    subTitle: "Mandsour University | 2020 ~ 2025",
     list: [
       "Studied computer science, software development, DevOps",
       "Graduated with First Class Honours",
@@ -208,7 +208,7 @@ const educationInfo = [
   {
     id: 2,
     title: "HND in Computing & System Development",
-    subTitle: "Info Myanmar University | 2016 - 2018",
+    subTitle: "Mandsour University | 2020 - 2025",
     list: [
       "Studied modules specializing in software development",
       "Passed HND with overall Merit",
@@ -216,8 +216,8 @@ const educationInfo = [
   },
   {
     id: 3,
-    title: "IELTS",
-    subTitle: "British Council Myanmar | 2017",
+    title: "ICAC",
+    subTitle: "ICAC Board | 2018",
     list: ["Got overall band score 6.5."],
   },
 ];

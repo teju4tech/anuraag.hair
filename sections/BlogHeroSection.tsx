@@ -41,7 +41,7 @@ const BlogHeroSection: React.FC = () => {
       <div className="mt-10">
         <div className="overflow-hidden py-1">
           <h1 className="main-header text-4xl lg:text-5xl font-bold">
-            Sat Naing's{" "}
+            Tejpal's{" "}
             <span className="text-marrsgreen dark:text-carrigreen">Blog</span>
           </h1>
         </div>
@@ -130,7 +130,7 @@ const BlogHeroSection: React.FC = () => {
         >
           <option value="All">All</option>
           <option value="English">English</option>
-          <option value="Myanmar">Myanmar</option>
+          <option value="Myanmar">Bharat</option>
         </select>
       </div>
     </section>
